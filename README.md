@@ -1,5 +1,15 @@
 ### Hi there 👋🏾
-
+<div id="badges">
+  <a href="[link to your LinkedIn profile]">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="[link to your Medium profile]">
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
+  </a>
+  <a href="[link to your Tableau profile]">
+    <img src="https://img.shields.io/badge/tableau-navy?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge"/>
+  </a>
+</div>
 My name is Jason James and I'm currently an active student of the Engineering Specialization (Systems) postgraduate course at the Universidad Nacional de Colombia (@ the Medellín site / Robledo campus). I'm Colombian of Caribbean descent and an eager learner fighting procrastination😉; with a particular interest in builing solutions that advocate for the ideals of open source and the cost-efficiency of moving to the cloud.
 
 <div id="bio">
