@@ -15,7 +15,7 @@
     <li>🤓 <strong>I’m currently learning</strong> how to Architect solutions with the help of Azure's amazing set of services and other Clouds, DevOps, Optimization, Rust and Data Engineering (Rust-Python-focused)</li>
     <li>🤝🏾 <strong>I’m looking to collaborate on</strong> Open Source</li>
     <li>💬 <strong>Ask me about</strong> Resilience, Transactional Analysis, Antar Mouna (Mindfulness), travelling, Seinfeld and Microsoft Azure (in that order)</li>
-    <li>📫 Hit me up on "https://www.linkedin.com/in/jjamesbr/", preferably</li>
+    <li>📫 Hit me up on https://www.linkedin.com/in/jjamesbr/, preferably</li>
     <li>⚡ <strong>Fun fact:</strong> This is my 12th year of being a massive fan of British soaps (...the ones on the Tele, of course)</li>
   </ul>
 </div>
