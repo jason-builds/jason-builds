@@ -6,11 +6,11 @@ My name is Jason James and I'm currently an active student of the Engineering Sp
   <h3>On the subject of me</h3>
   <ul>
     <li>🛠️ <strong>I’m currently working on</strong> a number of (hopefully) cool😎 Rust CLI tools</li>
-    <li>🤓 I’m currently learning how to Architect solutions with the help of Azure's amazing set of services and other <strong>Clouds, DevOps, Optimization, Rust and Data Engineering (Rust-Python-focused)</strong></li>
-    <li>🤝🏾 I’m looking to collaborate on <strong>Open Source</strong></li>
-    <li>💬 Ask me about <strong>Resilience, Transactional Analysis, Antar Mouna (Mindfulness), travelling, Seinfeld and Microsoft Azure (in that order)</strong></li>
+    <li>🤓 <strong>I’m currently learning</strong> how to Architect solutions with the help of Azure's amazing set of services and other Clouds, DevOps, Optimization, Rust and Data Engineering (Rust-Python-focused)</li>
+    <li>🤝🏾 <strong>I’m looking to collaborate on</strong> Open Source</li>
+    <li>💬 <strong>Ask me about</strong> Resilience, Transactional Analysis, Antar Mouna (Mindfulness), travelling, Seinfeld and Microsoft Azure (in that order)</li>
     <li>📫 Hit me up on "["https://www.linkedin.com/in/jjamesbr/"]", preferably</li>
-    <li>⚡ Fun fact: This is my 12th year of being a massive fan of British soaps <strong>(...the ones on the Tele, of course)</strong></li>
+    <li>⚡ <strong>Fun fact:</strong> This is my 12th year of being a massive fan of British soaps (...the ones on the Tele, of course)</li>
   </ul>
 </div>
 
