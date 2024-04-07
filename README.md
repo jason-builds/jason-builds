@@ -5,7 +5,7 @@ My name is Jason James and I'm currently an active student of the Engineering Sp
 <div id="bio">
   <h3>On the subject of me</h3>
   <ul>
-    <li>🛠️ I’m currently working on all-things **Rust CLI tools**</li>
+    <li>🛠️ I’m currently working on all-things <strong>Rust CLI tools</strong>strong></li>
     <li>🤓 I’m currently learning how to Architect solutions with the help of Azure's amazing set of services and other **Clouds, DevOps, Optimization, Rust, Data Engineering with both Rust and Python**</li>
     <li>🤝🏾 I’m looking to collaborate on Open Source</li>
     <li>💬 Ask me about **Resilience, Transactional Analysis, Antar Mouna (Mindfulness), travelling, Seinfeld and Microsoft Azure (in that order)**</li>
@@ -22,7 +22,6 @@ My name is Jason James and I'm currently an active student of the Engineering Sp
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"  title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="gcp" alt="gcp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg"  title="K8s" alt="K8s" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/openstack/openstack-original.svg"  title="ostack" alt="ostack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csh" alt="csh" width="40" height="40"/>&nbsp;
