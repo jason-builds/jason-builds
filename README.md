@@ -1,3 +1,14 @@
+<div id="header" align="center">
+  <h1>Hello there, I'm [your name]</h1>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
+
+
+
+
+
+
 ### Hi there 👋🏾
 
 My name is Jason James and I'm currently an active student of the Engineering Specialization (Systems) postgraduate course at the Universidad Nacional de Colombia (@ the Medellín site / Robledo campus). I'm Colombian of Caribbean descent and an eager learner fighting procrastination; with a particular interest in builing solutions that advocate the ideals of open source and the cost-efficiency of moving to the cloud.
