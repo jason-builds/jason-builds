@@ -1,5 +1,10 @@
 <div id="header" align="left">
   <h3><strong>Hi there</strong> 👋🏾</h3>
+  <div id="badges" align="right">
+  <a href="https://www.linkedin.com/in/jjamesbr/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
   <p>My name is Jason James and I'm currently an active student of the Engineering Specialization (Systems) postgraduate course at the Universidad Nacional de Colombia (@ the Medellín site / Robledo campus). I'm Colombian of Caribbean descent and an eager learner fighting procrastination😉; with a particular interest in builing solutions that advocate for the ideals of open source and the cost-efficiency of moving to the cloud.</p>
 </div>
 
