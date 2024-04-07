@@ -6,7 +6,7 @@ My name is Jason James and I'm currently an active student of the Engineering Sp
   <h3>On the subject of me</h3>
   <ul>
     <li>🛠️ I’m currently working on all-things <strong>Rust CLI tools</strong></li>
-    <li>🤓 I’m currently learning how to Architect solutions with the help of Azure's amazing set of services and other <strong>Clouds, DevOps, Optimization, Rust, Data Engineering with both Rust and Python</strong></li>
+    <li>🤓 I’m currently learning how to Architect solutions with the help of Azure's amazing set of services and other <strong>Clouds, DevOps, Optimization, Rust and Data Engineering (Rust-Python-focused)</strong></li>
     <li>🤝🏾 I’m looking to collaborate on <strong>Open Source</strong></li>
     <li>💬 Ask me about <strong>Resilience, Transactional Analysis, Antar Mouna (Mindfulness), travelling, Seinfeld and Microsoft Azure (in that order)</strong></li>
     <li>📫 Hit me up on "["https://www.linkedin.com/in/jjamesbr/"]", preferably</li>
