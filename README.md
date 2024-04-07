@@ -1,3 +1,10 @@
+<div id="header" align="left">
+  <h3><strong>Hi there</strong>👋🏾, I'm <strong>Jason</strong></h3>
+  <img src="[insert an image of yourself or something you like]" width="200" />
+  <p>[briefly describe yourself and your interests]</p>
+</div>
+
+
 ### Hi there 👋🏾
 <div id="badges">
   <a href="https://www.linkedin.com/in/jjamesbr/">
