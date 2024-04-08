@@ -8,10 +8,7 @@
   <p align="justify">My name is <strong>Jason James</strong> and I'm currently an active student of the Engineering Specialization (Systems) postgraduate course at the Universidad Nacional de Colombia (@ the Medellín site / Robledo campus). I'm Colombian of Caribbean descent and an eager learner fighting procrastination😉; with a particular interest in builing solutions that advocate for the ideals of open source and the cost-efficiency of moving to the cloud.</p>
 </div>
 
-<div id="bio"list-style-type: disc;
-    list-style-position: inside;
-    text-indent: -2em;
-    padding-left: 2em;>
+<div id="bio">
   <h3>On the subject of me</h3>
   <ul>
     <li>🛠️ <strong>I’m currently working on</strong> a number of (hopefully) cool😎 Rust CLI tools</li>
