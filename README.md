@@ -10,8 +10,8 @@
 
 <div id="bio"list-style-type: disc;
     list-style-position: inside;
-    text-indent: -1em;
-    padding-left: 1em;>
+    text-indent: -2em;
+    padding-left: 2em;>
   <h3>On the subject of me</h3>
   <ul>
     <li>🛠️ <strong>I’m currently working on</strong> a number of (hopefully) cool😎 Rust CLI tools</li>
