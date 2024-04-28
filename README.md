@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <h3><strong>Hi there</strong> 👋🏾</h3>
+  <h3><strong>Hey</strong> 👋🏾</h3>
   <div id="badges" align="right">
   <a href="https://www.linkedin.com/in/jjamesbr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
