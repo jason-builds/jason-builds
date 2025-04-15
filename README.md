@@ -22,7 +22,8 @@
       <dd><a href="https://accelerate.uofuhealth.utah.edu/resilience/how-to-practice-self-compassion-for-resilience-and-well-being">Resilience in the workplace</a></dd>
       <dd><a href="http://www.yogamag.net/archives/2000s/2002/0205/0205am.html">Mindfulness (Antar Mouna)</a></dd>
       <dd><a href="https://www.theschooloflife.com/article/travel-as-therapy-an-introduction">Travelling (both on a budget and solo!)</a></dd> 
-      <dd><a href="https://seinfeld.fandom.com/wiki/Seinfeld">Seinfeld</a>... (Yes, in that order of things🫣)</dd>
+      <dd><a href="https://seinfeld.fandom.com/wiki/Seinfeld">Seinfeld</a></dd> 
+      <dd>(Yes, in that order of things🫣)</dd>
       </dl>
       </li>
     <li>📫 Hit me up on <a href="https://www.linkedin.com/in/jjamesbr">LinkedIn</a>, preferably</li>
