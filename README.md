@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  <p align="justify">My name is <strong>Jason James</strong> and I'm particulary interested business applications, automation, embedded software, as well as building automation as well as building solutions that advocate for the ideals of open source and the cost-efficiency of moving to the cloud.</p>
+  <p align="justify">My name is <strong>Jason James</strong> and I'm particulary interested business applications, automation, embedded software, as well as building solutions that advocate for the ideals of open source and the cost-efficiency of moving to the cloud.</p>
 </div>
 
 <div id="bio">
