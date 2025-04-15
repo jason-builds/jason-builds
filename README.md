@@ -14,15 +14,15 @@
     <li>🛠️ <strong>I’m currently working on</strong> a number of (hopefully) cool😎 Rust CLI tools</li>
     <li>🤓 <strong>Learning</strong> how to architect solutions with the help of Azure and other Clouds; DevOps, Optimization, Rust; and Data Engineering (Rust-Python-focused)</li>
     <li>🤝🏾 <strong>I’m looking to collaborate on</strong> Open Source</li>
-    <li>💬 <strong>Feel free to initiate a chat or an informal discussion on:</strong> 
+    <li>💬 <strong>Feel free to</strong> initiate a chat or an informal discussion on: 
       <dl>
-         <dd><a href="https://www.microsoft.com/en-us/dynamics-365">Microsoft Dynamics</a></dd>
-      <a href="https://blog.hubspot.com/sales/erp-and-crm">ERP-CRM Integrations</a>
-      <a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwiMmwBhDmARIsABeQ7xQYh3Rdv1NkJ_88tLUCboIEjOBc79wVqwWCQ0psaxyF3fJbHg-dOlcaAhB3EALw_wcB_k_&OCID=AIDcmm3804ythc_SEM__k_Cj0KCQjwiMmwBhDmARIsABeQ7xQYh3Rdv1NkJ_88tLUCboIEjOBc79wVqwWCQ0psaxyF3fJbHg-dOlcaAhB3EALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xQYh3Rdv1NkJ_88tLUCboIEjOBc79wVqwWCQ0psaxyF3fJbHg-dOlcaAhB3EALw_wcB">Microsoft Azure</a> 
-      <a href="https://accelerate.uofuhealth.utah.edu/resilience/how-to-practice-self-compassion-for-resilience-and-well-being">Resilience in the workplace</a>
-      <a href="http://www.yogamag.net/archives/2000s/2002/0205/0205am.html">Mindfulness (Antar Mouna)</a>
-      <a href="https://www.theschooloflife.com/article/travel-as-therapy-an-introduction">Travelling (both on a budget and solo!)</a> 
-      and <a href="https://seinfeld.fandom.com/wiki/Seinfeld">Seinfeld</a>... (in that order of things🫣)
+          <dd><a href="https://www.microsoft.com/en-us/dynamics-365">Microsoft Dynamics</a></dd>
+          <dd><a href="https://blog.hubspot.com/sales/erp-and-crm">ERP-CRM Integrations</a></dd>
+      <dd><a href="https://azure.microsoft.com/en-us/free/search/?ef_id=_k_Cj0KCQjwiMmwBhDmARIsABeQ7xQYh3Rdv1NkJ_88tLUCboIEjOBc79wVqwWCQ0psaxyF3fJbHg-dOlcaAhB3EALw_wcB_k_&OCID=AIDcmm3804ythc_SEM__k_Cj0KCQjwiMmwBhDmARIsABeQ7xQYh3Rdv1NkJ_88tLUCboIEjOBc79wVqwWCQ0psaxyF3fJbHg-dOlcaAhB3EALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwiMmwBhDmARIsABeQ7xQYh3Rdv1NkJ_88tLUCboIEjOBc79wVqwWCQ0psaxyF3fJbHg-dOlcaAhB3EALw_wcB">Microsoft Azure</a></dd> 
+      <dd><a href="https://accelerate.uofuhealth.utah.edu/resilience/how-to-practice-self-compassion-for-resilience-and-well-being">Resilience in the workplace</a></dd>
+      <dd><a href="http://www.yogamag.net/archives/2000s/2002/0205/0205am.html">Mindfulness (Antar Mouna)</a></dd>
+      <dd><a href="https://www.theschooloflife.com/article/travel-as-therapy-an-introduction">Travelling (both on a budget and solo!)</a></dd> 
+      <dd>and <a href="https://seinfeld.fandom.com/wiki/Seinfeld">Seinfeld</a>... (in that order of things🫣)</dd>
       </dl>
       </li>
     <li>📫 Hit me up on <a href="https://www.linkedin.com/in/jjamesbr">LinkedIn</a>, preferably</li>
